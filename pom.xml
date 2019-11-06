@@ -11,8 +11,8 @@
 	</parent>
 	<groupId>com.glarimy</groupId>
 	<artifactId>quiz-employee-service</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>glarimy-quiz-employee-service</name>
+	<version>1.0.0</version>
+	<name>quiz-employee-service</name>
 	<description>REST API for Glarimy Quiz Employee Service</description>
 
 	<properties>
